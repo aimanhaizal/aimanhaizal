@@ -7,6 +7,8 @@
 Building practical cloud, automation and IoT systems with a focus on reliability and real-world deployment.
 
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=60A5FA)](https://github.com/aimanhaizal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=60A5FA)](www.linkedin.com/in/muhammad-aiman-hafiy-695355283)
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=60A5FA)](mailto:aiman_hafiy@outlook.my)
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-0F172A?style=flat-square&logo=amazonwebservices&logoColor=60A5FA)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-0F172A?style=flat-square&logo=amazonwebservices&logoColor=60A5FA)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
@@ -28,7 +30,7 @@ I'm developing further in **cloud infrastructure, infrastructure as code, CI/CD 
 
 ## Selected projects
 
-### [AWS Serverless Portfolio](https://github.com/aimanhaizal?tab=repositories)
+### [AWS Serverless Portfolio]([https://github.com/aimanhaizal?tab=repositories](https://github.com/aimanhaizal/serverless-portfolio))
 Serverless AWS application and infrastructure portfolio demonstrating **API Gateway, Lambda, DynamoDB, AWS CDK and GitHub Actions CI/CD**. *Link points to my repositories until the exact project URL is added.*
 
 **AWS · Python · AWS CDK · GitHub Actions · DynamoDB**
