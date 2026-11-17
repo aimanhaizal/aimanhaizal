@@ -30,7 +30,7 @@ I'm developing further in **cloud infrastructure, infrastructure as code, CI/CD 
 
 ## Selected projects
 
-### [AWS Serverless Portfolio]([https://github.com/aimanhaizal?tab=repositories](https://github.com/aimanhaizal/serverless-portfolio))
+### [AWS Serverless Portfolio](https://github.com/aimanhaizal?tab=repositories](https://github.com/aimanhaizal/serverless-portfolio))
 Serverless AWS application and infrastructure portfolio demonstrating **API Gateway, Lambda, DynamoDB, AWS CDK and GitHub Actions CI/CD**. *Link points to my repositories until the exact project URL is added.*
 
 **AWS · Python · AWS CDK · GitHub Actions · DynamoDB**
